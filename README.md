@@ -1,6 +1,6 @@
 ## Glowing Dot Loading Animation
 
-<img height="300" width="300" src="https://github.com/KAVIYARASAN-1997/Gowing-Dot-Loading-Animation/blob/main/Etc/ezgif-3-9cce733139.gif">
+<a href="https://kaviyarasan-1997.github.io/Gowing-Dot-Loading-Animation/"><img height="300" width="300" src="https://github.com/KAVIYARASAN-1997/Gowing-Dot-Loading-Animation/blob/main/Etc/ezgif-3-9cce733139.gif"></a>
 
 # Check Animation 
 [![Animation](https://img.shields.io/badge/lowing-Dot-003245?style=flat&labelColor=lightgreen&logoColor=blue&square&logo=google)](https://kaviyarasan-1997.github.io/Gowing-Dot-Loading-Animation/)&nbsp;  
